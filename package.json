@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "cross-env NODE_ENV=production PORT=80 node server",
+    "start": "cross-env NODE_ENV=production PORT=4000 node server",
     "test": " jest --forceExit",
     "test:silent": " jest --silent --forceExit",
     "test:coverage": " jest --coverage --forceExit",

@@ -1,3 +1,5 @@
+// controllers/posts.controller.js
+
 const PostService = require('../services/posts.service');
 
 class PostsController {
